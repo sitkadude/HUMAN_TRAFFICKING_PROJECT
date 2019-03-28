@@ -9,3 +9,11 @@ Steps to run file:
 1) Pull repo from https://github.com/sitkadude/codeLOU_python
 2) Open Jupyter Notebooks
 3) Run "PROject.ipynb"
+
+Dependencies: 
+1) os
+2) sqlite3
+3) csv
+4) pandas
+5) numpy
+6) seaborn
