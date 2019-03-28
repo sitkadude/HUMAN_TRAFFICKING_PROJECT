@@ -7,6 +7,6 @@ being trafficked?" My wife and I spent a year in SE Asia working with human traf
 I visualized my multiple categories using Seaborn.
 
 Steps to run file:
-1) Pull repo
+1) Pull repo https://github.com/sitkadude/codeLOU_python
 2) Open Jupyter Notebooks
 3) Run "PROject.ipynb"
