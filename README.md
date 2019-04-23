@@ -6,7 +6,7 @@ In this project, I collected global data on human trafficking. My goal in this p
 I visualized my results using Seaborn.
 
 Steps to run file:
-1) Pull repo from https://github.com/sitkadude/codeLOU_python
+1) Pull repo from https://github.com/sitkadude/human_trafficking_project
 2) Open Jupyter Notebooks
 3) Run "PROject.ipynb"
 
