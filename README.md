@@ -7,7 +7,7 @@ I visualized my results using Seaborn.
 Steps to run file:
 1) Pull repo from https://github.com/sitkadude/human_trafficking_project
 2) Open Jupyter Notebooks
-3) Run "PROject.ipynb"
+3) Run `PROject.ipynb`
 
 Dependencies: 
 1) os
