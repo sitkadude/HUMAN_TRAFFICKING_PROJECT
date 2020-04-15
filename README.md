@@ -6,11 +6,6 @@ I collected my data set from Ctdatacollaborative.org which is the single most co
 
 I visualized my results using Seaborn.
 
-INSTRUCTIONS:<br/>
-(1) Pull repo from https://github.com/sitkadude/human_trafficking_project<br/>
-(2) Open Jupyter Notebooks<br/>
-(3) Run `PROject.ipynb`<br/>
-
 DEPENDENCIES:<br/> 
 (1) os<br/>
 (2) sqlite3<br/>
@@ -18,3 +13,8 @@ DEPENDENCIES:<br/>
 (4) pandas<br/>
 (5) numpy<br/>
 (6) seaborn
+
+INSTRUCTIONS:<br/>
+(1) Pull repo from https://github.com/sitkadude/human_trafficking_project<br/>
+(2) Open Jupyter Notebooks<br/>
+(3) Run `PROject.ipynb`<br/>
