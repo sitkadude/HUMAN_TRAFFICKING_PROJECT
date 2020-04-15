@@ -4,15 +4,15 @@ In this project, I collected global data on human trafficking. My goal in this p
 
 I visualized my results using Seaborn.
 
-Steps to run file:
-1) Pull repo from https://github.com/sitkadude/human_trafficking_project
-2) Open Jupyter Notebooks
-3) Run `PROject.ipynb`
+INSTRUCTIONS:
+(1) Pull repo from https://github.com/sitkadude/human_trafficking_project
+(2) Open Jupyter Notebooks
+(3) Run `PROject.ipynb`
 
-Dependencies: 
-1) os
-2) sqlite3
-3) csv
-4) pandas
-5) numpy
-6) seaborn
+DEPENDENCIES: 
+(1) os
+(2) sqlite3
+(3) csv
+(4) pandas
+(5) numpy
+(6) seaborn
